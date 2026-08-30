@@ -1,7 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/Main.uss?fileID=7433441132597879392&amp;guid=4a593990e04a2064cb72d11df4a90edb&amp;type=3#Main"/>
-    <ui:VisualElement name="Root">
-        <ui:Button name="DrawButton" text="ガチャを引く"/>
-        <ui:VisualElement name="CardImage"/>
-    </ui:VisualElement>
-</ui:UXML>
